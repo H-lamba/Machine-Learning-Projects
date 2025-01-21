@@ -54,11 +54,11 @@ The model achieved high accuracy in detecting plant diseases.
 
 Sample Output:
 
-*📌 Structure of the Model<br/>
+* 📌 Structure of the Model<br/>
     ![image](https://github.com/user-attachments/assets/cb790163-49f5-4658-837d-4ca5deaffb49)
-*📌 Visualization of Accuracy Results<br/>
+* 📌 Visualization of Accuracy Results<br/>
  ![image](https://github.com/user-attachments/assets/6ee63c7a-4b74-4f76-999c-3f27ef5acc0a)
-*📌 Prediction Examples<br/>
+* 📌 Prediction Examples<br/>
     ![image](https://github.com/user-attachments/assets/1a0c23f8-41bf-432c-991a-371500c1bc9e)
 
 ## 🚀 Future Improvements
