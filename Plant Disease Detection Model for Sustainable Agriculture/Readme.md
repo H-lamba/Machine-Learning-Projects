@@ -65,6 +65,6 @@ Sample Output:
 Expand dataset to include more plant species and diseases.
 Improve model accuracy and robustness.
 Develop a mobile application for farmers to use in the field.
-##👨‍💻 Contributors
-Himanshu – [hlamba24191@gmail.com](Email)
-Under the guidance of: P Raja, Master Trainer, Edunet
+## 👨‍💻 Contributors
+* Himanshu – [hlamba24191@gmail.com](Email)
+* Under the guidance of: P Raja, Master Trainer, Edunet
