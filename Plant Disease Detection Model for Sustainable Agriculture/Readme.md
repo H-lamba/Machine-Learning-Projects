@@ -4,7 +4,7 @@ This project aims to detect plant diseases using Artificial Intelligence and Mac
 
 By leveraging a Convolutional Neural Network (CNN), this model classifies plant diseases based on leaf images and provides actionable insights for sustainable farming practices.
 
-** DropBox Link ** : [Plant Disease Detection Model](https://www.dropbox.com/scl/fo/sdcqn7b6oqywbfbw00zb0/AOd5oaCmc-7qGJS_5KTvCo0?rlkey=rnsohv95rnqwuu8wiqq7rpc8u&st=j9mu0vjk&dl=0)
+**DropBox Link** : [Plant Disease Detection Model](https://www.dropbox.com/scl/fo/sdcqn7b6oqywbfbw00zb0/AOd5oaCmc-7qGJS_5KTvCo0?rlkey=rnsohv95rnqwuu8wiqq7rpc8u&st=j9mu0vjk&dl=0)
 
 ## 🚀 Features
 * 🌿 Image-Based Disease Detection using CNN
