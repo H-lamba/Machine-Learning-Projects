@@ -37,6 +37,6 @@ Here are some of the projects included in this repository:
 Feel free to contribute by submitting issues or pull requests. If you have suggestions or improvements, they are always welcome!
 
 ## 📬 Contact
-For any queries or discussions, reach out via email at your-email@example.com or connect on [LinkedIn](linkedin.com/in/himanshu-50385730a/).
+For any queries or discussions, reach out via email at [hljaat18@gmail.com](hljaat18@gmail.com) or connect on [LinkedIn](linkedin.com/in/himanshu-50385730a/).
 
 Happy coding! 🚀
