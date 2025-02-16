@@ -47,6 +47,14 @@ This project uses OpenAI's Whisper model to transcribe audio and video files int
 
 3. The script will search for media files with extensions `.mp3`, `.mp4`, and `.mkv` in the specified directory, transcribe them, and save the transcriptions as text files in the same directory as the original media files.
 
+## How It Works
+
+1. The script uses the `searchfile()` function to search for media files in the specified directory and returns a list of file paths.
+
+2. For each media file found, the `scriptwriter(media_file)` function is called. This function uses the Whisper model to transcribe the audio or video file into text.
+
+3. The transcribed text is then saved as a text file with the same name as the original media file but with a `.txt` extension, in the same directory as the original media file.
+
 ## Script Details
 
 - `searchfile()`: Searches for media files in the specified directory and returns a list of file paths.
