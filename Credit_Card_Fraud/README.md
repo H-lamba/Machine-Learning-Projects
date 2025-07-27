@@ -1,4 +1,4 @@
-Below is a well-structured README.md for your credit card fraud detection project using a 1D CNN in TensorFlow/Keras, based on the code and workflow found in your provided notebook.
+
 
 # Credit Card Fraud Detection using 1D CNN
 
